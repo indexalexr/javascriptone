@@ -1,4 +1,3 @@
-//Declaracion de variables
 let edad;
 
 //Declaracion de funciones
@@ -58,5 +57,3 @@ function ingreso(b) {
 
 //Llamado de funciones
 ingreso(edad);
-
-///
